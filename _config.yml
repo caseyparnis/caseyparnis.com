@@ -28,7 +28,7 @@ github_username:  caseyparnis
 timezone: 	America/Los_Angeles
 
 # Build settings
-theme: minima
+theme: jekyll-bear-theme
 plugins:
   - jekyll-feed
 
