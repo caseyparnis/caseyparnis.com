@@ -2,4 +2,4 @@
 publish = "/Users/caseyparnis/GitHub/caseyparnis.com"
 environment = {"PATH" = "/opt/homebrew/opt/ruby@3.0/bin:$PATH"}
 NETLIFY_BUILD_DEBUG = true
-RUBY_VERSION = 3.0.7
+RUBY_VERSION = 3.0
