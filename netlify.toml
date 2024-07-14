@@ -1,0 +1,3 @@
+[build]
+publish = /Users/caseyparnis/GitHub/caseyparnis.com # Replace with your actual path
+environment = { "PATH" = "/opt/homebrew/opt/ruby@3.0/bin:$PATH" }  # Set the Ruby path
