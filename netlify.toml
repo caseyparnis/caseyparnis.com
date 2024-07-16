@@ -1,6 +1,6 @@
 [build]
   # Set the directory to publish (relative to the root of your repo)
-  publish = "/Users/caseyparnis/GitHub/caseyparnis.com/_site" # Change this to your actual build output directory
+  publish = "_site" # Change this to your actual build output directory
 
   # Enable debug mode for Netlify builds (optional)
   NETLIFY_BUILD_DEBUG = "true"
