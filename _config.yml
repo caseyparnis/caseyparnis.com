@@ -22,7 +22,7 @@ title: Casey Parnis
 email: caseyparnis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   descriptionnn
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://caseyparnis.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  caseyparnis
 timezone: 	America/Los_Angeles
