@@ -1,0 +1,38 @@
+# Jekyll build artifacts
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# IDE specific files
+# Adjust these for your IDE of choice
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
+
+# Local development files
+*.log
+database.yml
+database.sqlite3  # or your database file extension
+
+# Draft posts (if applicable)
+_drafts/
+
+# Testing frameworks (if applicable)
+spec/
+features/
+
+# Exclude any custom configuration files
+!_config.yml
+
+# Optional: Exclude specific plugins
+# !plugins/my-custom-plugin/  # Replace with your plugin directory
+
+# Ignore environment variables
+.env
