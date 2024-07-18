@@ -36,7 +36,7 @@ b {
 }
 
 a {
-    color: #3273dc;
+    color: #DBA932;
     cursor: pointer;
     text-decoration: none;
 }
@@ -242,7 +242,7 @@ ul.blog-posts li span {
 }
 
 ul.blog-posts li a:visited {
-    color: #8b6fcb;
+    color: #3B1C99;
 }
 
 /* discovery feed */
@@ -279,7 +279,7 @@ ul.discover-posts li small a {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #01242e;
+        background-color: #1C5D99;
         color: #ddd;
     }
 
