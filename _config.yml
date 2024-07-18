@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Site settings
 title: Casey Parnis
 email: caseyparnis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -25,7 +26,18 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://caseyparnis.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: caseyparnis
-timezone:	America/Los_Angeles
+timezone: America/Los_Angeles
+
+# Navigation Links
+links:
+  - [Home, /]  # Link to the homepage
+  - [About, /about]  # Link to an "About" page (replace with your actual page path)
+  - [Contact, /contact]  # Link to a "Contact" page (replace with your actual page path)
+
+# Special Links (Optional)
+# Use this section for links with different formatting (e.g., brackets)
+# special_links:
+# - [GitHub, https://github.com/caseyparnis]  # Link to your GitHub profile (replace with your username)
 
 # Build settings
 theme: jekyll-bear-theme
@@ -51,3 +63,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Welcome to Jekyll!
+# ... (rest of the existing configuration)
