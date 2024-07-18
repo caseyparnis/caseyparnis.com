@@ -1,0 +1,14 @@
+[build]
+  # Set the directory to publish (relative to the root of your repo)
+  publish = "_site" # Change this to your actual build output directory
+
+  # Enable debug mode for Netlify builds (optional)
+  NETLIFY_BUILD_DEBUG = "true"
+
+[build.environment]
+  # Specify the Ruby version
+  RUBY_VERSION = "3.0"
+
+# Add any other required environment variables here
+# Example:
+# OTHER_ENV_VAR = "value"
