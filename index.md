@@ -1,26 +1,24 @@
 ---
-title: CP
-description: A short description of my website
+layout: default
+title: Hello
 ---
 
-## Welcome!
 
-This is the homepage of my website. 
+## An easy to use, minimal, text focused Jekyll theme
 
-Here you can write some introductory text about yourself, your website, or your projects.
+[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
 
-**Here are some ideas of what you can include:**
+This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
 
-* A brief introduction about yourself and your interests.
-* A summary of the topics covered on your website.
-* Links to your most important pages, such as your blog, portfolio, or contact information.
-* An image or banner to visually represent your website.
+**Stop worrying about the style, focus on your writing.**
 
-**Feel free to customize this content to reflect your own voice and style!**
+- Looks great on *any* device
+- Tiny, optimized, and awesome pages
+- No trackers, ads, or scripts, *did I mention minimal already?*
+- Auto light and dark themes
+- Tag support, to filter blog pages
+- Quick, *15 minute* setup
+- Gallery view for your images
+- Code highlighting
 
-## Connect with me
-
-* [Link to your social media profile 1](https://example.com/profile1)
-* [Link to your social media profile 2](https://example.com/profile2)
-
-**This is just a starting point, feel free to add more sections or information as you see fit!**
+Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
