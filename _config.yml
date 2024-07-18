@@ -31,8 +31,8 @@ timezone: America/Los_Angeles
 # Navigation Links
 links:
   - [Home, /]  # Link to the homepage
-  - [About, /about]  # Link to an "About" page (replace with your actual page path)
-  - [Contact, /contact]  # Link to a "Contact" page (replace with your actual page path)
+  - [Quilting, /tags/quilting]
+  - [Technical Writing, /tags/technical-writing]
 
 # Special Links (Optional)
 # Use this section for links with different formatting (e.g., brackets)
