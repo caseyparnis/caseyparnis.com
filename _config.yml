@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   descriptionnn
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://caseyparnis.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  caseyparnis
-timezone: 	America/Los_Angeles
+github_username: caseyparnis
+timezone:	America/Los_Angeles
 
 # Build settings
 theme: jekyll-bear-theme
