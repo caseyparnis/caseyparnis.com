@@ -1,5 +1,5 @@
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Verdana, sans-serif;
     margin: auto;
     padding: 20px;
     max-width: 720px;
@@ -36,7 +36,7 @@ b {
 }
 
 a {
-    color: #DBA932;
+    color: #3273dc;
     cursor: pointer;
     text-decoration: none;
 }
@@ -242,7 +242,7 @@ ul.blog-posts li span {
 }
 
 ul.blog-posts li a:visited {
-    color: #3B1C99;
+    color: #8b6fcb;
 }
 
 /* discovery feed */
@@ -279,7 +279,7 @@ ul.discover-posts li small a {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #1C5D99;
+        background-color: #01242e;
         color: #ddd;
     }
 
@@ -334,6 +334,7 @@ hr {
 }
 
 body:hover {
+    border-image: ;
     border-width: 0;
 }
 

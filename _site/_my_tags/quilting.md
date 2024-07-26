@@ -1,4 +1,0 @@
----
-slug: quilting
-name: Quilting
----
