@@ -2,3 +2,4 @@
 
 source "https://rubygems.org"
 gemspec
+gem 'public_suffix', '6.0.1'  # Replace with the desired version if necessary
