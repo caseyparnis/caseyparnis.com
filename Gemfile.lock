@@ -46,10 +46,6 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-bear-theme (0.1.6)
-      jekyll (~> 4.2)
-      jekyll-redirect-from (~> 0.16.0)
-      webrick (~> 1.7.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-redirect-from (0.16.0)
@@ -135,7 +131,6 @@ PLATFORMS
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.3)
-  jekyll-bear-theme
   jekyll-feed (~> 0.12)
   tzinfo (>= 1, < 3)
   tzinfo-data

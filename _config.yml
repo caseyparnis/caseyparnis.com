@@ -40,7 +40,7 @@ links:
 # - [GitHub, https://github.com/caseyparnis]  # Link to your GitHub profile (replace with your username)
 
 # Build settings
-theme: lanyon
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
