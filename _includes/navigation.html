@@ -1,0 +1,15 @@
+<nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about/">About</a></li>
+      <li>
+        Categories
+        <ul>
+          {% for category in site.categories %}
+            <li><a href="{{ site.baseurl }}/{{ category | downcase }}/">{{ category }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+    </ul>
+  </nav>
+  
